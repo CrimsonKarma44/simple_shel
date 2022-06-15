@@ -13,8 +13,6 @@
 #include <errno.h>
 #include <time.h>
 
-#include "_getline.h"
-
 /* for read/write buffers */
 #define READ_BUF_SIZE 1024
 #define WRITE_BUF_SIZE 1024
